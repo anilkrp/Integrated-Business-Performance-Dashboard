@@ -4,6 +4,12 @@ A complete end-to-end data analysis project — from raw CSV files to an interac
 
 ---
 
+## Dashboard Preview
+
+[Business Performance Dashboard](screenshots/dashboard_preview.png)
+
+---
+
 ## Problem Statement
 
 Business data is often scattered across multiple files (customers, orders, products, employees, returns), making it hard to get a unified picture. This project solves that by combining all datasets into a structured database and visualising the key metrics in a single Power BI dashboard.
@@ -35,6 +41,7 @@ Business data is often scattered across multiple files (customers, orders, produ
 ## Repository Structure
 ```
 ├── data/                   # CSV source files
+├── screenshots/            # Dashboard preview images
 ├── code.ipynb              # Jupyter notebook to load CSVs into SQLite
 ├── queries.sql             # All SQL queries used for analysis
 ├── orderflow.db            # SQLite database (auto-generated)
@@ -55,19 +62,19 @@ Business data is often scattered across multiple files (customers, orders, produ
 | Return Rate | 30% |
 
 ### Visualisations
-- Monthly Revenue Trend (line chart)
-- Top 5 Products by Revenue (bar chart)
-- Return Reasons Breakdown (bar chart)
-- Revenue by Region (donut chart)
+- **Monthly Revenue Trend** — revenue fluctuation across all 12 months
+- **Top 5 Products by Revenue** — Laptop (₹1.92M) leads, followed by Smartphone, Whirlpool Webcam, Nike Gaming Console, Smartwatch
+- **Revenue by Region** — West dominates at 27.35%, followed by North (24.73%), South (19.06%), East (14.94%), Central (13.92%)
+- **Return Reasons Breakdown** — Damaged and Late Delivery are the top return reasons (12 each)
 
 ---
 
 ## Key Insights
 
-- **Revenue Concentration** — Top 5 products (Laptop, Smartphone, etc.) drive the majority of revenue (Pareto pattern)
-- **High Return Rate** — 30% return rate; Damaged goods and Late Delivery are the top reasons
+- **Revenue Concentration** — Top 5 products drive the majority of revenue, a classic Pareto pattern
+- **High Return Rate** — 30% return rate; Damaged goods and Late Delivery are the leading causes, pointing to logistics and quality issues
 - **Regional Performance** — West region leads in revenue (Mumbai, Ahmedabad, Pune)
-- **Customer Behaviour** — High average order value of ₹56K suggests mostly premium purchases
+- **Customer Behaviour** — High average order value of ₹56.05K suggests mostly premium purchases
 
 ---
 
