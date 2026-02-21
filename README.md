@@ -6,7 +6,7 @@ A complete end-to-end data analysis project — from raw CSV files to an interac
 
 ## Dashboard Preview
 
-[Business Performance Dashboard](screenshots/dashboard_preview.png)
+[Business Performance Dashboard](dashboard_preview.png)
 
 ---
 
