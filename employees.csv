@@ -1,0 +1,16 @@
+employee_id,employee_name,department_id,salary,hire_date,city
+E101,Amit Sharma,D1,75000,2021-06-12,Mumbai
+E102,Priya Verma,D2,68000,2020-01-18,Delhi
+E103,Raj Malhotra,D3,92000,2019-07-20,Bengaluru
+E104,Sneha Iyer,D4,88000,2022-11-05,Chennai
+E105,Arjun Patel,D5,71000,2023-03-25,Ahmedabad
+E106,Neha Reddy,D1,76000,2021-08-14,Hyderabad
+E107,Vikram Singh,D3,99000,2018-12-01,Pune
+E108,Anjali Das,D2,64000,2022-05-07,Kolkata
+E109,Rohit Mehta,D4,87000,2020-09-19,Mumbai
+E110,Kavya Nair,D5,72000,2023-01-07,Bengaluru
+E111,Ravi Shankar,D9,141938,2019-03-09,Mumbai
+E112,Nita Pillai,D5,72255,2022-01-10,Delhi
+E113,Arun Mehta,D7,91450,2021-09-04,Pune
+E114,Sonia Tiwari,D7,64811,2022-12-17,Bengaluru
+E115,Prakash Joshi,D3,75607,2019-06-27,Hyderabad

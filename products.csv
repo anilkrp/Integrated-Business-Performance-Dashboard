@@ -1,0 +1,441 @@
+product_id,product_name,category,price
+P301,Laptop,Electronics,60000
+P302,Smartphone,Electronics,25000
+P303,Headphones,Accessories,2000
+P304,Office Chair,Furniture,8000
+P305,Desk Table,Furniture,12000
+P306,Smartwatch,Electronics,15000
+P307,Backpack,Lifestyle,1800
+P308,Printer,Electronics,10000
+P309,Tablet,Electronics,30000
+P310,Gaming Mouse,Accessories,1500
+P311,Arrow Laptop Basic,Electronics,50000
+P312,Raymond Laptop Modern,Electronics,30000
+P313,Adidas Laptop Mini,Electronics,8000
+P314,Dell Smartphone Lite,Electronics,1000
+P315,Titan Smartphone Classic,Electronics,2000
+P316,Philips Smartphone Plus,Electronics,3000
+P317,OnePlus Tablet Elite,Electronics,60000
+P318,Sony Tablet Premium,Electronics,10000
+P319,Mi Tablet Premium,Electronics,500
+P320,HP Smartwatch Smart,Electronics,20000
+P321,Arrow Smartwatch Lite,Electronics,15000
+P322,Adidas Smartwatch Elite,Electronics,3000
+P323,Bosch Earbuds Premium,Electronics,3000
+P324,Samsung Earbuds Premium,Electronics,2000
+P325,Adidas Earbuds Classic,Electronics,15000
+P326,Titan Camera Mini,Electronics,3000
+P327,Whirlpool Camera Premium,Electronics,500
+P328,Dell Camera Standard,Electronics,20000
+P329,Philips Drone Modern,Electronics,25000
+P330,Samsung Drone Modern,Electronics,15000
+P331,HP Drone Ultra,Electronics,1000
+P332,Nike Gaming Console Lite,Electronics,80000
+P333,Levi Gaming Console Classic,Electronics,1500
+P334,Sony Gaming Console Smart,Electronics,2500
+P335,Dell Monitor Plus,Electronics,10000
+P336,Philips Monitor Premium,Electronics,50000
+P337,Arrow Monitor Ultra,Electronics,5000
+P338,Puma Keyboard Essential,Electronics,60000
+P339,Mi Keyboard Lite,Electronics,8000
+P340,Asus Keyboard Ultra,Electronics,1500
+P341,Lenovo Mouse Ultra,Electronics,8000
+P342,Samsung Mouse Pro,Electronics,1500
+P343,Arrow Mouse Basic,Electronics,1000
+P344,Nike USB Hub Classic,Electronics,20000
+P345,Sony USB Hub Lite,Electronics,8000
+P346,Apple USB Hub Max,Electronics,80000
+P347,Whirlpool Webcam Basic,Electronics,80000
+P348,Arrow Webcam Ultra,Electronics,80000
+P349,Dell Webcam Smart,Electronics,50000
+P350,Whirlpool Power Bank Advanced,Electronics,50000
+P351,HP Power Bank Mini,Electronics,50000
+P352,Levi Power Bank Elite,Electronics,60000
+P353,Apple Bluetooth Speaker Elite,Electronics,20000
+P354,HP Bluetooth Speaker Smart,Electronics,2000
+P355,Raymond Bluetooth Speaker Ultra,Electronics,5000
+P356,Whirlpool Office Chair Plus,Furniture,50000
+P357,Arrow Office Chair Plus,Furniture,10000
+P358,Bosch Office Chair Essential,Furniture,8000
+P359,Sony Standing Desk Lite,Furniture,1000
+P360,Bosch Standing Desk Advanced,Furniture,500
+P361,Arrow Standing Desk Lite,Furniture,8000
+P362,LG Bookshelf Essential,Furniture,5000
+P363,OnePlus Bookshelf Classic,Furniture,30000
+P364,Philips Bookshelf Modern,Furniture,1000
+P365,LG Filing Cabinet Elite,Furniture,10000
+P366,Mi Filing Cabinet Modern,Furniture,60000
+P367,Samsung Filing Cabinet Max,Furniture,50000
+P368,Arrow Sofa Ultra,Furniture,15000
+P369,Philips Sofa Ultra,Furniture,1000
+P370,Dell Sofa Standard,Furniture,1000
+P371,Lenovo Coffee Table Standard,Furniture,80000
+P372,Apple Coffee Table Premium,Furniture,3000
+P373,Levi Coffee Table Pro,Furniture,1500
+P374,LG Wardrobe Advanced,Furniture,8000
+P375,Sony Wardrobe Elite,Furniture,2000
+P376,Levi Wardrobe Modern,Furniture,8000
+P377,Levi Bed Frame Elite,Furniture,20000
+P378,Apple Bed Frame Modern,Furniture,10000
+P379,Sony Bed Frame Ultra,Furniture,20000
+P380,Nike Dining Table Plus,Furniture,15000
+P381,Adidas Dining Table Essential,Furniture,20000
+P382,Mi Dining Table Modern,Furniture,1500
+P383,Samsung Study Table Lite,Furniture,5000
+P384,Bosch Study Table Premium,Furniture,10000
+P385,HP Study Table Plus,Furniture,25000
+P386,Sony Headphones Max,Accessories,3000
+P387,Nike Headphones Essential,Accessories,15000
+P388,Asus Headphones Standard,Accessories,500
+P389,Arrow Laptop Bag Modern,Accessories,2500
+P390,Puma Laptop Bag Max,Accessories,2000
+P391,HP Laptop Bag Modern,Accessories,2000
+P392,Arrow Mouse Pad Max,Accessories,5000
+P393,Dell Mouse Pad Basic,Accessories,20000
+P394,Adidas Mouse Pad Ultra,Accessories,10000
+P395,Titan Phone Case Modern,Accessories,1000
+P396,Philips Phone Case Lite,Accessories,50000
+P397,Adidas Phone Case Classic,Accessories,10000
+P398,Apple Screen Protector Smart,Accessories,2500
+P399,Samsung Screen Protector Advanced,Accessories,10000
+P400,Lenovo Screen Protector Plus,Accessories,60000
+P401,Arrow Cable Organizer Pro,Accessories,2000
+P402,OnePlus Cable Organizer Lite,Accessories,2500
+P403,Raymond Cable Organizer Premium,Accessories,1000
+P404,Asus Desk Lamp Plus,Accessories,50000
+P405,Levi Desk Lamp Plus,Accessories,1000
+P406,Arrow Desk Lamp Max,Accessories,25000
+P407,Apple Laptop Stand Advanced,Accessories,8000
+P408,Asus Laptop Stand Advanced,Accessories,2000
+P409,Whirlpool Laptop Stand Mini,Accessories,50000
+P410,Raymond Cable Classic,Accessories,3000
+P411,Dell Cable Smart,Accessories,3000
+P412,Nike Cable Modern,Accessories,50000
+P413,Samsung Charger Smart,Accessories,50000
+P414,LG Charger Smart,Accessories,8000
+P415,Lenovo Charger Max,Accessories,3000
+P416,HP T-Shirt Classic,Clothing,80000
+P417,Mi T-Shirt Ultra,Clothing,5000
+P418,Apple T-Shirt Classic,Clothing,60000
+P419,Asus Formal Shirt Ultra,Clothing,500
+P420,Puma Formal Shirt Advanced,Clothing,5000
+P421,Nike Formal Shirt Elite,Clothing,20000
+P422,Adidas Jeans Mini,Clothing,30000
+P423,Sony Jeans Advanced,Clothing,20000
+P424,Raymond Jeans Pro,Clothing,2000
+P425,Adidas Trousers Pro,Clothing,2000
+P426,LG Trousers Standard,Clothing,50000
+P427,Raymond Trousers Mini,Clothing,20000
+P428,OnePlus Jacket Elite,Clothing,5000
+P429,Titan Jacket Max,Clothing,1000
+P430,HP Jacket Basic,Clothing,50000
+P431,Samsung Kurta Advanced,Clothing,5000
+P432,Titan Kurta Mini,Clothing,50000
+P433,Arrow Kurta Lite,Clothing,20000
+P434,Raymond Saree Basic,Clothing,15000
+P435,Lenovo Saree Premium,Clothing,15000
+P436,HP Saree Advanced,Clothing,50000
+P437,Lenovo Blazer Premium,Clothing,2500
+P438,Mi Blazer Ultra,Clothing,50000
+P439,Puma Blazer Advanced,Clothing,30000
+P440,LG Shorts Elite,Clothing,500
+P441,Levi Shorts Max,Clothing,15000
+P442,Puma Shorts Ultra,Clothing,50000
+P443,Levi Hoodie Essential,Clothing,60000
+P444,Lenovo Hoodie Advanced,Clothing,5000
+P445,Bosch Hoodie Premium,Clothing,80000
+P446,LG Dress Premium,Clothing,20000
+P447,Sony Dress Lite,Clothing,8000
+P448,Puma Dress Advanced,Clothing,15000
+P449,Nike Skirt Pro,Clothing,1000
+P450,Whirlpool Skirt Ultra,Clothing,80000
+P451,Dell Skirt Standard,Clothing,1500
+P452,Bosch Track Pants Basic,Clothing,30000
+P453,OnePlus Track Pants Essential,Clothing,30000
+P454,Whirlpool Track Pants Ultra,Clothing,2500
+P455,Samsung Suit Ultra,Clothing,3000
+P456,HP Suit Smart,Clothing,60000
+P457,OnePlus Suit Pro,Clothing,8000
+P458,HP Ethnic Wear Smart,Clothing,60000
+P459,Bosch Ethnic Wear Advanced,Clothing,20000
+P460,Dell Ethnic Wear Smart,Clothing,60000
+P461,Raymond Microwave Classic,Appliances,60000
+P462,Titan Microwave Modern,Appliances,3000
+P463,OnePlus Microwave Basic,Appliances,80000
+P464,Bosch Washing Machine Classic,Appliances,10000
+P465,Adidas Washing Machine Smart,Appliances,80000
+P466,Nike Washing Machine Advanced,Appliances,8000
+P467,Adidas Refrigerator Basic,Appliances,15000
+P468,Bosch Refrigerator Ultra,Appliances,10000
+P469,Sony Refrigerator Mini,Appliances,20000
+P470,Arrow Air Conditioner Plus,Appliances,8000
+P471,Sony Air Conditioner Elite,Appliances,2500
+P472,Dell Air Conditioner Basic,Appliances,5000
+P473,Sony Vacuum Cleaner Mini,Appliances,60000
+P474,OnePlus Vacuum Cleaner Elite,Appliances,1000
+P475,Levi Vacuum Cleaner Ultra,Appliances,50000
+P476,Mi Air Purifier Classic,Appliances,30000
+P477,Levi Air Purifier Essential,Appliances,500
+P478,Samsung Air Purifier Mini,Appliances,15000
+P479,Mi Water Purifier Basic,Appliances,8000
+P480,OnePlus Water Purifier Essential,Appliances,8000
+P481,Arrow Water Purifier Max,Appliances,50000
+P482,Philips Induction Cooktop Mini,Appliances,30000
+P483,Samsung Induction Cooktop Basic,Appliances,3000
+P484,Mi Induction Cooktop Classic,Appliances,60000
+P485,Dell Toaster Modern,Appliances,30000
+P486,Arrow Toaster Standard,Appliances,500
+P487,Samsung Toaster Lite,Appliances,50000
+P488,Dell Coffee Maker Pro,Appliances,10000
+P489,Bosch Coffee Maker Elite,Appliances,20000
+P490,LG Coffee Maker Ultra,Appliances,60000
+P491,Lenovo Yoga Mat Max,Sports,50000
+P492,Raymond Yoga Mat Max,Sports,1500
+P493,Mi Yoga Mat Essential,Sports,500
+P494,Arrow Dumbbells Ultra,Sports,1500
+P495,Apple Dumbbells Smart,Sports,1000
+P496,Asus Dumbbells Smart,Sports,500
+P497,Nike Resistance Bands Standard,Sports,2500
+P498,Whirlpool Resistance Bands Ultra,Sports,2500
+P499,Samsung Resistance Bands Essential,Sports,2000
+P500,Levi Jump Rope Basic,Sports,10000
+P501,Whirlpool Jump Rope Smart,Sports,25000
+P502,Bosch Jump Rope Plus,Sports,2000
+P503,LG Sports Shoes Standard,Sports,500
+P504,Puma Sports Shoes Modern,Sports,15000
+P505,HP Sports Shoes Standard,Sports,30000
+P506,Mi Cycling Helmet Standard,Sports,8000
+P507,Whirlpool Cycling Helmet Lite,Sports,15000
+P508,Sony Cycling Helmet Classic,Sports,2000
+P509,Levi Water Bottle Premium,Sports,50000
+P510,Apple Water Bottle Advanced,Sports,25000
+P511,Asus Water Bottle Lite,Sports,20000
+P512,Samsung Gym Gloves Lite,Sports,50000
+P513,OnePlus Gym Gloves Mini,Sports,60000
+P514,Philips Gym Gloves Basic,Sports,2500
+P515,OnePlus Badminton Racket Advanced,Sports,10000
+P516,LG Badminton Racket Standard,Sports,80000
+P517,Titan Badminton Racket Essential,Sports,50000
+P518,Levi Cricket Bat Classic,Sports,8000
+P519,Adidas Cricket Bat Classic,Sports,1500
+P520,Lenovo Cricket Bat Max,Sports,60000
+P521,Nike Programming Guide Mini,Books,500
+P522,Bosch Programming Guide Essential,Books,20000
+P523,Mi Programming Guide Plus,Books,80000
+P524,Whirlpool Finance Book Mini,Books,10000
+P525,Asus Finance Book Modern,Books,10000
+P526,Adidas Finance Book Premium,Books,500
+P527,Titan History Novel Ultra,Books,50000
+P528,Whirlpool History Novel Essential,Books,8000
+P529,Sony History Novel Basic,Books,80000
+P530,Philips Self-Help Book Lite,Books,15000
+P531,Bosch Self-Help Book Ultra,Books,30000
+P532,Samsung Self-Help Book Basic,Books,8000
+P533,Puma Science Textbook Essential,Books,25000
+P534,Levi Science Textbook Elite,Books,20000
+P535,Asus Science Textbook Mini,Books,60000
+P536,Adidas Fiction Novel Ultra,Books,2000
+P537,Puma Fiction Novel Basic,Books,5000
+P538,Raymond Fiction Novel Mini,Books,2000
+P539,Arrow Biography Ultra,Books,80000
+P540,LG Biography Max,Books,15000
+P541,Whirlpool Biography Lite,Books,5000
+P542,Puma Cookbook Plus,Books,15000
+P543,Nike Cookbook Pro,Books,2500
+P544,Asus Cookbook Max,Books,1000
+P545,Apple Travel Guide Basic,Books,2500
+P546,Arrow Travel Guide Advanced,Books,80000
+P547,Puma Travel Guide Lite,Books,500
+P548,Levi Art Book Essential,Books,60000
+P549,Puma Art Book Mini,Books,3000
+P550,Philips Art Book Pro,Books,10000
+P551,Philips Notebook Elite,Stationery,80000
+P552,HP Notebook Lite,Stationery,1000
+P553,Sony Notebook Plus,Stationery,2500
+P554,Levi Pen Set Ultra,Stationery,2000
+P555,Puma Pen Set Premium,Stationery,50000
+P556,Sony Pen Set Standard,Stationery,8000
+P557,Titan Planner Modern,Stationery,60000
+P558,Mi Planner Max,Stationery,50000
+P559,Bosch Planner Max,Stationery,1000
+P560,Raymond Sticky Notes Advanced,Stationery,5000
+P561,HP Sticky Notes Max,Stationery,1500
+P562,Whirlpool Sticky Notes Plus,Stationery,8000
+P563,LG Marker Set Plus,Stationery,500
+P564,Arrow Marker Set Elite,Stationery,60000
+P565,Sony Marker Set Basic,Stationery,80000
+P566,Puma Stapler Max,Stationery,15000
+P567,Apple Stapler Basic,Stationery,60000
+P568,Nike Stapler Lite,Stationery,8000
+P569,Adidas File Folder Elite,Stationery,2000
+P570,Levi File Folder Premium,Stationery,8000
+P571,Whirlpool File Folder Advanced,Stationery,2500
+P572,Adidas Binder Pro,Stationery,3000
+P573,Dell Binder Smart,Stationery,15000
+P574,Sony Binder Standard,Stationery,15000
+P575,Bosch Highlighter Basic,Stationery,15000
+P576,HP Highlighter Basic,Stationery,30000
+P577,Raymond Highlighter Max,Stationery,80000
+P578,Bosch Whiteboard Modern,Stationery,50000
+P579,Sony Whiteboard Basic,Stationery,20000
+P580,Apple Whiteboard Standard,Stationery,10000
+P581,Mi Knife Set Ultra,Kitchen,1000
+P582,Raymond Knife Set Plus,Kitchen,500
+P583,Whirlpark Knife Set Max,Kitchen,3000
+P584,LG Knife Set Premium,Kitchen,500
+P585,Raymond Cutting Board Standard,Kitchen,1000
+P586,Philips Cutting Board Mini,Kitchen,3000
+P587,Whirlpark Cutting Board Ultra,Kitchen,800
+P588,OnePlus Cutting Board Essential,Kitchen,800
+P589,Levi Non-stick Pan Lite,Kitchen,5000
+P590,Lenovo Non-stick Pan Mini,Kitchen,3000
+P591,Sony Non-stick Pan Pro,Kitchen,1500
+P592,Titan Non-stick Pan Premium,Kitchen,200
+P593,OnePlus Pressure Cooker Essential,Kitchen,1000
+P594,Whirlpark Pressure Cooker Standard,Kitchen,5000
+P595,Asus Pressure Cooker Pro,Kitchen,2000
+P596,Sony Pressure Cooker Plus,Kitchen,1000
+P597,LG Mixing Bowl Plus,Kitchen,200
+P598,Bosch Mixing Bowl Lite,Kitchen,200
+P599,Raymond Mixing Bowl Plus,Kitchen,5000
+P600,Titan Mixing Bowl Elite,Kitchen,500
+P601,OnePlus Blender Standard,Kitchen,200
+P602,Sony Blender Elite,Kitchen,2000
+P603,Dell Blender Plus,Kitchen,3000
+P604,Puma Blender Ultra,Kitchen,200
+P605,Whirlpark Juicer Plus,Kitchen,2000
+P606,Bosch Juicer Essential,Kitchen,200
+P607,Adidas Juicer Plus,Kitchen,800
+P608,Mi Juicer Standard,Kitchen,3000
+P609,HP Rice Cooker Max,Kitchen,800
+P610,Raymond Rice Cooker Plus,Kitchen,3000
+P611,Levi Rice Cooker Plus,Kitchen,1000
+P612,Dell Rice Cooker Premium,Kitchen,2000
+P613,Philips Grater Mini,Kitchen,800
+P614,Nike Grater Lite,Kitchen,1500
+P615,Adidas Grater Pro,Kitchen,200
+P616,HP Grater Mini,Kitchen,1000
+P617,Mi Peeler Elite,Kitchen,3000
+P618,Raymond Peeler Mini,Kitchen,500
+P619,Lenovo Peeler Plus,Kitchen,200
+P620,Levi Peeler Mini,Kitchen,3000
+P621,Bosch Face Wash Max,Health & Beauty,500
+P622,Nike Face Wash Mini,Health & Beauty,1000
+P623,Puma Face Wash Ultra,Health & Beauty,3000
+P624,Levi Face Wash Max,Health & Beauty,5000
+P625,Sony Moisturizer Lite,Health & Beauty,1500
+P626,Bosch Moisturizer Mini,Health & Beauty,5000
+P627,OnePlus Moisturizer Premium,Health & Beauty,800
+P628,Adidas Moisturizer Max,Health & Beauty,3000
+P629,Puma Shampoo Elite,Health & Beauty,5000
+P630,OnePlus Shampoo Ultra,Health & Beauty,3000
+P631,LG Shampoo Mini,Health & Beauty,1000
+P632,Raymond Shampoo Mini,Health & Beauty,200
+P633,Asus Conditioner Max,Health & Beauty,3000
+P634,Puma Conditioner Ultra,Health & Beauty,3000
+P635,Whirlpark Conditioner Mini,Health & Beauty,3000
+P636,LG Conditioner Pro,Health & Beauty,500
+P637,Titan Sunscreen Premium,Health & Beauty,1500
+P638,Arrow Sunscreen Plus,Health & Beauty,5000
+P639,Whirlpark Sunscreen Ultra,Health & Beauty,1500
+P640,Samsung Sunscreen Elite,Health & Beauty,5000
+P641,Arrow Perfume Pro,Health & Beauty,500
+P642,Titan Perfume Max,Health & Beauty,500
+P643,Puma Perfume Standard,Health & Beauty,200
+P644,Whirlpark Perfume Pro,Health & Beauty,3000
+P645,Puma Lip Balm Ultra,Health & Beauty,500
+P646,Asus Lip Balm Elite,Health & Beauty,3000
+P647,Arrow Lip Balm Plus,Health & Beauty,1500
+P648,Raymond Lip Balm Essential,Health & Beauty,2000
+P649,Dell Body Lotion Elite,Health & Beauty,800
+P650,Raymond Body Lotion Mini,Health & Beauty,1500
+P651,Bosch Body Lotion Ultra,Health & Beauty,1500
+P652,Mi Body Lotion Essential,Health & Beauty,3000
+P653,LG Hair Dryer Lite,Health & Beauty,1000
+P654,Philips Hair Dryer Essential,Health & Beauty,200
+P655,Levi Hair Dryer Lite,Health & Beauty,2000
+P656,Raymond Hair Dryer Essential,Health & Beauty,500
+P657,Lenovo Electric Shaver Pro,Health & Beauty,2000
+P658,Samsung Electric Shaver Elite,Health & Beauty,1500
+P659,Arrow Electric Shaver Plus,Health & Beauty,800
+P660,Adidas Electric Shaver Standard,Health & Beauty,200
+P661,Mi Building Blocks Premium,Toys,1000
+P662,Apple Building Blocks Premium,Toys,1500
+P663,Levi Building Blocks Plus,Toys,5000
+P664,Lenovo Building Blocks Pro,Toys,3000
+P665,Nike Puzzle Set Plus,Toys,1500
+P666,Whirlpark Puzzle Set Max,Toys,2000
+P667,HP Puzzle Set Lite,Toys,1000
+P668,Philips Puzzle Set Premium,Toys,800
+P669,Asus RC Car Plus,Toys,800
+P670,Arrow RC Car Plus,Toys,500
+P671,Sony RC Car Pro,Toys,3000
+P672,HP RC Car Plus,Toys,2000
+P673,Nike Board Game Mini,Toys,3000
+P674,LG Board Game Ultra,Toys,1500
+P675,Lenovo Board Game Plus,Toys,500
+P676,Apple Board Game Plus,Toys,5000
+P677,Titan Doll Set Lite,Toys,1000
+P678,Samsung Doll Set Standard,Toys,5000
+P679,Nike Doll Set Standard,Toys,500
+P680,Mi Doll Set Plus,Toys,800
+P681,Bosch Action Figure Standard,Toys,200
+P682,Asus Action Figure Standard,Toys,3000
+P683,Adidas Action Figure Pro,Toys,1500
+P684,Lenovo Action Figure Plus,Toys,800
+P685,Samsung Play Kitchen Max,Toys,500
+P686,Puma Play Kitchen Essential,Toys,3000
+P687,Arrow Play Kitchen Lite,Toys,200
+P688,Levi Play Kitchen Mini,Toys,800
+P689,Raymond Toy Train Pro,Toys,3000
+P690,Lenovo Toy Train Max,Toys,1000
+P691,Levi Toy Train Premium,Toys,800
+P692,Arrow Toy Train Pro,Toys,1500
+P693,Mi Card Game Plus,Toys,3000
+P694,OnePlus Card Game Pro,Toys,1000
+P695,Titan Card Game Ultra,Toys,1500
+P696,Nike Card Game Plus,Toys,500
+P697,OnePlus Educational Kit Plus,Toys,800
+P698,Samsung Educational Kit Max,Toys,200
+P699,Levi Educational Kit Max,Toys,800
+P700,Whirlpark Educational Kit Standard,Toys,3000
+P701,Dell Plant Pot Elite,Garden,5000
+P702,Samsung Plant Pot Lite,Garden,800
+P703,Apple Plant Pot Standard,Garden,1000
+P704,Titan Plant Pot Mini,Garden,3000
+P705,Dell Garden Hose Premium,Garden,800
+P706,Philips Garden Hose Ultra,Garden,5000
+P707,Sony Garden Hose Ultra,Garden,500
+P708,Asus Garden Hose Elite,Garden,1000
+P709,LG Pruning Shears Plus,Garden,1500
+P710,Dell Pruning Shears Plus,Garden,500
+P711,Philips Pruning Shears Ultra,Garden,1000
+P712,Nike Pruning Shears Premium,Garden,1000
+P713,OnePlus Watering Can Ultra,Garden,1500
+P714,Mi Watering Can Mini,Garden,2000
+P715,Titan Watering Can Essential,Garden,1000
+P716,Sony Watering Can Lite,Garden,200
+P717,Apple Garden Gloves Ultra,Garden,200
+P718,OnePlus Garden Gloves Max,Garden,800
+P719,Raymond Garden Gloves Max,Garden,1500
+P720,Lenovo Garden Gloves Pro,Garden,1500
+P721,Whirlpark Fertilizer Mini,Garden,3000
+P722,Asus Fertilizer Plus,Garden,1500
+P723,HP Fertilizer Premium,Garden,1500
+P724,LG Fertilizer Ultra,Garden,5000
+P725,Apple Seed Kit Plus,Garden,500
+P726,Samsung Seed Kit Elite,Garden,200
+P727,Asus Seed Kit Mini,Garden,2000
+P728,Nike Seed Kit Elite,Garden,1000
+P729,Arrow Planter Box Pro,Garden,800
+P730,Dell Planter Box Ultra,Garden,1000
+P731,Sony Planter Box Mini,Garden,1500
+P732,Samsung Planter Box Lite,Garden,200
+P733,OnePlus Trowel Mini,Garden,5000
+P734,HP Trowel Elite,Garden,3000
+P735,Raymond Trowel Premium,Garden,1500
+P736,Sony Trowel Mini,Garden,2000
+P737,HP Rake Lite,Garden,200
+P738,Adidas Rake Ultra,Garden,1500
+P739,Titan Rake Mini,Garden,500
+P740,Nike Rake Max,Garden,1500
